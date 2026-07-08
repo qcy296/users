@@ -59,3 +59,4 @@ fkhys|114514mc|2
 WEI MOU|WEI MOU|2
 WEI MOU【B站】|1234567890|2
 fuokyou|114514|2
+<color=blue></color><color=blue>FUOKYOU</color>|114514|2
